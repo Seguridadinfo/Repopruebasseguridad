@@ -1,6 +1,0 @@
-PASSWORD
-CONTRASEÑA
-contraseña
-password
-CLAVE
-clave
